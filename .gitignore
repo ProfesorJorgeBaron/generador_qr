@@ -1,0 +1,28 @@
+# Archivos de entrada locales
+links.txt
+
+# Logos en la raíz (evita subir cualquier formato de logo)
+logo.png
+logo.jpg
+logo.jpeg
+logo.svg
+logo.webp
+
+# Carpeta con los códigos QR generados
+qrs_output/
+qrs_generados/
+
+# Entorno virtual de Python
+venv/
+env/
+ENV/
+
+# Archivos temporales y cachés de Python
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Configuración de editores o IDEs
+.vscode/
+.idea/
